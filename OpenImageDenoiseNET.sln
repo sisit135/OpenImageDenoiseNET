@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenImageDenoiseNET", "OpenImageDenoiseNET\OpenImageDenoiseNET.csproj", "{0F4199AE-91C6-4E6C-9FD6-D55F8065B8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubGen", "StubGen\StubGen.csproj", "{7D68E4B6-B269-4BC9-B605-19CB21A99A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4199AE-91C6-4E6C-9FD6-D55F8065B8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4199AE-91C6-4E6C-9FD6-D55F8065B8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4199AE-91C6-4E6C-9FD6-D55F8065B8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4199AE-91C6-4E6C-9FD6-D55F8065B8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D68E4B6-B269-4BC9-B605-19CB21A99A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D68E4B6-B269-4BC9-B605-19CB21A99A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D68E4B6-B269-4BC9-B605-19CB21A99A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D68E4B6-B269-4BC9-B605-19CB21A99A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

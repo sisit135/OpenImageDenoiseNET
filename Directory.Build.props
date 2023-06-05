@@ -1,0 +1,10 @@
+<Project>
+    <PropertyGroup>
+        <Version>0.0.1</Version>
+        <Company>SN / Team Exad</Company>
+        <Description>A managed wrapper for Intel® Open Image Denoise libarary.</Description>
+        <LangVersion>latest</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+</Project>
